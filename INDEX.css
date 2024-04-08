@@ -1,0 +1,42 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f0f0;
+  text-align: center;
+}
+h1 {
+  color: #0074d9;
+}
+h2{
+    color: white;
+}
+h3, h4{
+    color: white;
+    text-align: left;
+}
+ul{
+    color: white;
+}
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+
+.sidebar-left, .sidebar-right {
+    width: 20%;
+    padding: 20px;
+    background-color: #f8f8f8;
+    float: left;
+}
+
+.sidebar-right {
+    float: right;
+}
+
+
+
+.sidebar-left, .sidebar-right {
+    background-image: url("fondo\ laterales.jpg");
+    /* Otros estilos para la barra lateral */
+  }
+  
